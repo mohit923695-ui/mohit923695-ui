@@ -26,9 +26,11 @@
 
 ## ⚡ About Me
 
+<div align="center">
+
 <table>
 <tr>
-<td valign="top" width="52%">
+<td valign="top" width="50%">
 
 <br>
 
@@ -44,8 +46,15 @@
 
 <br>
 
+</td>
+<td valign="top" width="50%">
+
+<br>
+
 > 🎯 **Career Vision:**
 > *"Building high-performance, intelligent software systems with AI models, core engineering fundamentals, and robust security."*
+
+<br>
 
 > 🛡️ **Next Horizon:**
 > *"Cybersecurity &amp; Ethical Hacking — exploring secure AI architectures."*
@@ -53,19 +62,10 @@
 <br>
 
 </td>
-<td valign="top" width="48%">
-
-<br>
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohit923695-ui&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00f5ff&icon_color=ff007f&text_color=ffffff&rank_icon=github&include_all_commits=true&count_private=true)
-
-</div>
-
-</td>
 </tr>
 </table>
+
+</div>
 
 ---
 
@@ -391,56 +391,40 @@ Frontend &amp;<br>fullstack web apps
 ---
 
 <!-- ══════════════════════════════════════════════════════════ -->
-<!--                   3D GITHUB STATS DASHBOARD               -->
+<!--                3D GITHUB ANALYTICS DASHBOARD              -->
 <!-- ══════════════════════════════════════════════════════════ -->
 
-## 📊 GitHub Analytics
+## 📈 GitHub Analytics & Insights
 
 <div align="center">
 
+<!-- CARDS GRID 1: OVERVIEW STATS & MOST USED LANGUAGES -->
+<img src="https://github-readme-stats.vercel.app/api?username=mohit923695-ui&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00f5ff&icon_color=ff007f&text_color=ffffff&count_private=true&include_all_commits=true" height="185" alt="GitHub Stats" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohit923695-ui&layout=compact&hide_border=true&bg_color=0D1117&title_color=00f5ff&text_color=ffffff&langs_count=8" height="185" alt="Top Languages" />
 
-<img src="https://streak-stats.demolab.com?user=mohit923695-ui&hide_border=true&background=0D1117&ring=00f5ff&fire=ff007f&currStreakLabel=00f5ff&sideLabels=ffffff&dates=ffffff&stroke=0D1117&currStreakNum=ff007f&sideNums=00f5ff" height="185" alt="GitHub Streak" />
+<br><br>
 
-</div>
+<!-- CARD GRID 2: CONTRIBUTION STREAK COUNTER -->
+<img src="https://streak-stats.demolab.com?user=mohit923695-ui&hide_border=true&background=0D1117&ring=00f5ff&fire=ff007f&currStreakLabel=00f5ff&sideLabels=ffffff&dates=ffffff&stroke=0D1117&currStreakNum=ff007f&sideNums=00f5ff" alt="GitHub Streak Counter" />
 
-<div align="center">
+<br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mohit923695-ui&bg_color=0D1117&color=00f5ff&line=ff007f&point=00f5ff&area=true&hide_border=true" alt="Contribution Activity Graph" />
-
-</div>
-
----
-
-<!-- ══════════════════════════════════════════════════════════ -->
-<!--                     3D GITHUB TROPHIES                    -->
-<!-- ══════════════════════════════════════════════════════════ -->
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![3D Trophies](https://github-profile-trophy.vercel.app/?username=mohit923695-ui&theme=onedark&no-frame=true&no-bg=true&margin-w=10&column=7)
+<!-- CARD GRID 3: 3D CONTRIBUTION ACTIVITY GRAPH -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mohit923695-ui&bg_color=0D1117&color=00f5ff&line=ff007f&point=00f5ff&area=true&hide_border=true" alt="Contribution Activity Graph" width="100%" />
 
 </div>
 
 ---
 
 <!-- ══════════════════════════════════════════════════════════ -->
-<!--                    CONTRIBUTION SNAKE                      -->
+<!--                3D ANIMATED CONTRIBUTION SNAKE             -->
 <!-- ══════════════════════════════════════════════════════════ -->
 
 ## 🐍 Contribution Snake
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mohit923695-ui/mohit923695-ui/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mohit923695-ui/mohit923695-ui/output/github-contribution-grid-snake.svg" />
-  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/mohit923695-ui/mohit923695-ui/output/github-contribution-grid-snake-dark.svg" />
-</picture>
-
-> **Note:** Create `.github/workflows/snake.yml` in your profile repository using [platane/snk](https://github.com/platane/snk) to generate the automated contribution snake.
+<img src="https://cdn.jsdelivr.net/gh/platane/snk@master/assets/snake-dark.svg" alt="Animated Contribution Snake" width="100%" />
 
 </div>
 
