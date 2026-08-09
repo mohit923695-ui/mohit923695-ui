@@ -95,11 +95,6 @@
 <sub><code>Active</code></sub>
 </td>
 <td align="center" width="14%">
-<img src="https://skillicons.dev/icons?i=tensorflow" width="48" alt="AI"/><br>
-<b>AI / ML</b><br>
-<sub><code>Exploring</code></sub>
-</td>
-<td align="center" width="14%">
 <img src="https://skillicons.dev/icons?i=git" width="48" alt="Git"/><br>
 <b>Git / GitHub</b><br>
 <sub><code>Active</code></sub>
