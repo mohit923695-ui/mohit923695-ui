@@ -1,20 +1,47 @@
+Viewed styles.css:1-39
+Viewed README.md:1-472
+
+Aapke GitHub Profile ke liye **Pura Top-Level Code Sequence Me** niche diya gaya hai. Aap ise yahan se **directly copy-paste** kar sakte hain apne GitHub profile repository ke `README.md` file me!
+
+---
+
+### 📋 Complete GitHub Profile `README.md` Code (Copy-Paste Ready)
+
+```markdown
 <div align="center">
 
 <!-- ══════════════════════════════════════════════════════════ -->
 <!--                     3D HERO HEADER                        -->
 <!-- ══════════════════════════════════════════════════════════ -->
 
-![3D Banner](https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,10,20,30&height=230&section=header&text=MOHIT%20KUMAR&fontSize=65&fontColor=ffffff&fontAlignY=38&desc=🚀%20AI%20Software%20Engineer%20%7C%20Python%20%7C%20C%2B%2B%20%7C%20DSA%20Learner&descSize=18&descColor=00f5ff&descAlignY=62&animation=fadeIn&stroke=00f5ff&strokeWidth=3)
+![3D Banner](https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,10,20,30&height=240&section=header&text=MOHIT%20KUMAR&fontSize=65&fontColor=ffffff&fontAlignY=38&desc=🚀%20AI%20Software%20Engineer%20%7C%20Python%20%7C%20C%2B%2B%20%7C%20DSA%20Learner&descSize=18&descColor=00f5ff&descAlignY=64&animation=fadeIn&stroke=00f5ff&strokeWidth=3)
 
 <!-- DYNAMIC TYPING SVG -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=2800&pause=800&color=00F5FF&background=00000000&center=true&vCenter=true&multiline=false&width=700&height=55&lines=🎓+B.Tech+CSE+Student;🤖+AI+Engineer+in+Progress;🐍+Python+%26+C%2B%2B+Developer;📊+DSA+Problem+Solver;⚡+Future+Cybersecurity+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=2800&pause=800&color=00F5FF&background=00000000&center=true&vCenter=true&multiline=false&width=750&height=60&lines=🎓+B.Tech+CSE+Student;🤖+AI+Engineer+in+Progress;🐍+Python+%26+C%2B%2B+Developer;📊+DSA+Problem+Solver;⚡+Future+Cybersecurity+Enthusiast)](https://git.io/typing-svg)
 
 <br>
 
 <!-- 3D BADGES ROW -->
 ![Views](https://komarev.com/ghpvc/?username=mohit923695-ui&style=for-the-badge&color=00f5ff&label=PROFILE+VIEWS)
 [![GitHub Followers](https://img.shields.io/github/followers/mohit923695-ui?style=for-the-badge&logo=github&logoColor=white&color=ff007f&labelColor=0d1117)](https://github.com/mohit923695-ui)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohit-kumar-021808399)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://www.linkedin.com/in/mohit-kumar-021808399)
+[![Stars](https://img.shields.io/github/stars/mohit923695-ui?style=for-the-badge&logo=apachespark&logoColor=FFD700&color=7928ca&labelColor=0d1117)](https://github.com/mohit923695-ui)
+
+</div>
+
+---
+
+<!-- ══════════════════════════════════════════════════════════ -->
+<!--                     🏆 GITHUB TROPHIES                    -->
+<!-- ══════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+### 🏆 GitHub Trophies & Achievements
+
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=mohit923695-ui&theme=onedark&column=6&margin-w=15&margin-h=15&no-bg=true&no-frame=false" alt="Mohit's GitHub Trophies" />
+</a>
 
 </div>
 
@@ -322,7 +349,7 @@ Scripts, automation &amp;<br>utility tools
 
 <br><br>
 
-![Status](https://img.shields.io/badge/Building-Coming_Soon-00f5ff?style=flat-square)
+![Status](https://img.shields.io/badge/Building-Active-00f5ff?style=flat-square)
 
 <br>
 
@@ -373,7 +400,7 @@ Frontend &amp;<br>fullstack web apps
 
 <br><br>
 
-![Status](https://img.shields.io/badge/Status-Coming_Soon-00f5ff?style=flat-square)
+![Status](https://img.shields.io/badge/Status-Launching_Soon-00f5ff?style=flat-square)
 
 <br>
 
@@ -386,26 +413,43 @@ Frontend &amp;<br>fullstack web apps
 ---
 
 <!-- ══════════════════════════════════════════════════════════ -->
-<!--                3D GITHUB ANALYTICS DASHBOARD              -->
+<!--             🔥 PRO TOP-LEVEL GITHUB ANALYTICS DASHBOARD    -->
 <!-- ══════════════════════════════════════════════════════════ -->
 
-## 📈 GitHub Analytics & Insights
+## 📈 Pro GitHub Analytics & Insights
 
 <div align="center">
 
 <!-- CARDS GRID 1: OVERVIEW STATS & MOST USED LANGUAGES -->
-<img src="https://github-readme-stats.vercel.app/api?username=mohit923695-ui&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00f5ff&icon_color=ff007f&text_color=ffffff&count_private=true&include_all_commits=true" height="185" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohit923695-ui&layout=compact&hide_border=true&bg_color=0D1117&title_color=00f5ff&text_color=ffffff&langs_count=8" height="185" alt="Top Languages" />
+<a href="https://github.com/mohit923695-ui">
+  <img src="https://github-readme-stats.vercel.app/api?username=mohit923695-ui&show_icons=true&hide_border=true&bg_color=090d16&title_color=00f5ff&icon_color=ff007f&text_color=e2e8f0&border_color=00f5ff&count_private=true&include_all_commits=true&theme=tokyonight" height="195" alt="GitHub Stats" />
+</a>
+<a href="https://github.com/mohit923695-ui">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohit923695-ui&layout=compact&hide_border=true&bg_color=090d16&title_color=00f5ff&text_color=e2e8f0&langs_count=8&theme=tokyonight" height="195" alt="Top Languages" />
+</a>
 
 <br><br>
 
-<!-- CARD GRID 2: CONTRIBUTION STREAK COUNTER -->
-<img src="https://streak-stats.demolab.com?user=mohit923695-ui&hide_border=true&background=0D1117&ring=00f5ff&fire=ff007f&currStreakLabel=00f5ff&sideLabels=ffffff&dates=ffffff&stroke=0D1117&currStreakNum=ff007f&sideNums=00f5ff" alt="GitHub Streak Counter" />
+<!-- CARD GRID 2: TOP-LEVEL STREAK COUNTER (FIRE & STREAK HIGH PERFORMANCE) -->
+<a href="https://github.com/mohit923695-ui">
+  <img src="https://streak-stats.demolab.com?user=mohit923695-ui&hide_border=true&background=090D16&ring=00F5FF&fire=FF007F&currStreakLabel=00F5FF&sideLabels=E2E8F0&dates=94A3B8&stroke=00F5FF&currStreakNum=FF007F&sideNums=00F5FF&border=00F5FF" alt="GitHub Streak Counter" />
+</a>
 
 <br><br>
 
-<!-- CARD GRID 3: 3D CONTRIBUTION ACTIVITY GRAPH -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mohit923695-ui&bg_color=0D1117&color=00f5ff&line=ff007f&point=00f5ff&area=true&hide_border=true" alt="Contribution Activity Graph" width="100%" />
+<!-- CARD GRID 3: 3D CONTRIBUTION ACTIVITY GRAPH (HIGH VISUAL IMPACT) -->
+<a href="https://github.com/mohit923695-ui">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohit923695-ui&bg_color=090d16&color=00f5ff&line=ff007f&point=00f5ff&area=true&hide_border=true&custom_title=Mohit's%203D%20Contribution%20Activity" alt="Contribution Activity Graph" width="100%" />
+</a>
+
+<br><br>
+
+<!-- SNAKE CONTRIBUTION ANIMATION -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mohit923695-ui/mohit923695-ui/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mohit923695-ui/mohit923695-ui/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mohit923695-ui/mohit923695-ui/output/github-contribution-grid-snake-dark.svg" width="100%">
+</picture>
 
 </div>
 
