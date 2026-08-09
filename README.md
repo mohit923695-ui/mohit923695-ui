@@ -204,8 +204,6 @@
 
 ![AI/ML](https://img.shields.io/badge/AI%20%2F%20ML-FF6F61?style=for-the-badge&logo=tensorflow&logoColor=white)
 <br><br>
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-000000?style=for-the-badge&logo=hackthebox&logoColor=9FEF00)
-<br><br>
 ![Ethical Hacking](https://img.shields.io/badge/Ethical_Hacking-202020?style=for-the-badge&logo=kalilinux&logoColor=white)
 <br><br>
 ![Cloud](https://img.shields.io/badge/Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
