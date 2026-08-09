@@ -278,13 +278,7 @@
 
 <br><br>
 
-🛡️ **Cybersecurity**
-<br>
 🔓 **Ethical Hacking**
-<br>
-☁️ **Cloud Computing**
-<br>
-🐳 **Docker Containers**
 
 <br>
 
