@@ -1,13 +1,3 @@
-Viewed styles.css:1-39
-Viewed README.md:1-472
-
-Aapke GitHub Profile ke liye **Pura Top-Level Code Sequence Me** niche diya gaya hai. Aap ise yahan se **directly copy-paste** kar sakte hain apne GitHub profile repository ke `README.md` file me!
-
----
-
-### 📋 Complete GitHub Profile `README.md` Code (Copy-Paste Ready)
-
-```markdown
 <div align="center">
 
 <!-- ══════════════════════════════════════════════════════════ -->
