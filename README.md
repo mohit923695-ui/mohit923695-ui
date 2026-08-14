@@ -7,7 +7,7 @@
 ![3D Banner](https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,10,20,30&height=240&section=header&text=MOHIT%20KUMAR&fontSize=65&fontColor=ffffff&fontAlignY=38&desc=🚀%20AI%20Software%20Engineer%20%7C%20Python%20%7C%20C%2B%2B%20%7C%20DSA%20Learner&descSize=18&descColor=00f5ff&descAlignY=64&animation=fadeIn&stroke=00f5ff&strokeWidth=3)
 
 <!-- DYNAMIC TYPING SVG -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=2800&pause=800&color=00F5FF&background=00000000&center=true&vCenter=true&multiline=false&width=750&height=60&lines=🎓+B.Tech+CSE+Student;🤖+AI+Engineer+in+Progress;🐍+Python+%26+C%2B%2B+Developer;📊+DSA+Problem+Solver;⚡+Future+Cybersecurity+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=2800&pause=800&color=00F5FF&background=00000000&center=true&vCenter=true&multiline=false&width=750&height=60&lines=🎓+B.Tech+CSE;🐍+Python+%26+C%2B%2B+Developer;📊+DSA+Problem+Solver;⚡+Future+Cybersecurity+Enthusiast)](https://git.io/typing-svg)
 
 <br>
 
