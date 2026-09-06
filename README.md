@@ -337,16 +337,17 @@ Scripts, automation &amp;<br>utility tools
 
 </td>
 <td align="center" width="25%" valign="top">
+<br>
+
+<img src="https://img.shields.io/badge/🤖_AI-Projects-FF6F00?style=for-the-badge">
+
+<br><br>
+
+<p>🤖 Currently learning Artificial Intelligence (AI) and exploring how intelligent systems are built.</p>
 
 <br>
 
-![AI](https://img.shields.io/badge/🤖_AI-Projects-FF6F61?style=for-the-badge)
-
-<br><br>
-
-Machine learning &amp;<br>intelligent systems
-
-<br><br>
+<img src="https://img.shields.io/badge/AI-Learning-6A5ACD?style=flat-square">
 
 ![Status](https://img.shields.io/badge/Status-In_Progress-ff007f?style=flat-square)
 
