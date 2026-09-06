@@ -259,7 +259,7 @@
 
 <br><br>
 
-🤖 **AI / ML Basics**
+🤖 **AI **
 <br>
 🧠 **Neural Networks**
 <br>
