@@ -399,42 +399,31 @@ Frontend &amp;<br>fullstack web apps
 <!--             🔥 PRO TOP-LEVEL GITHUB ANALYTICS DASHBOARD    -->
 <!-- ══════════════════════════════════════════════════════════ -->
 
-## 📈 Pro GitHub Analytics & Insights
+# 👾 Contribution Arcade
 
-<div align="center">
-
-<!-- CARDS GRID 1: OVERVIEW STATS & MOST USED LANGUAGES -->
-<a href="https://github.com/mohit923695-ui">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohit923695-ui&show_icons=true&hide_border=true&bg_color=090d16&title_color=00f5ff&icon_color=ff007f&text_color=e2e8f0&border_color=00f5ff&count_private=true&include_all_commits=true&theme=tokyonight" height="195" alt="GitHub Stats" />
-</a>
-<a href="https://github.com/mohit923695-ui">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohit923695-ui&layout=compact&hide_border=true&bg_color=090d16&title_color=00f5ff&text_color=e2e8f0&langs_count=8&theme=tokyonight" height="195" alt="Top Languages" />
-</a>
-
-<br><br>
-
-<!-- CARD GRID 2: TOP-LEVEL STREAK COUNTER (FIRE & STREAK HIGH PERFORMANCE) -->
-<a href="https://github.com/mohit923695-ui">
-  <img src="https://streak-stats.demolab.com?user=mohit923695-ui&hide_border=true&background=090D16&ring=00F5FF&fire=FF007F&currStreakLabel=00F5FF&sideLabels=E2E8F0&dates=94A3B8&stroke=00F5FF&currStreakNum=FF007F&sideNums=00F5FF&border=00F5FF" alt="GitHub Streak Counter" />
-</a>
-
-<br><br>
-
-<!-- CARD GRID 3: 3D CONTRIBUTION ACTIVITY GRAPH (HIGH VISUAL IMPACT) -->
-<a href="https://github.com/mohit923695-ui">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohit923695-ui&bg_color=090d16&color=00f5ff&line=ff007f&point=00f5ff&area=true&hide_border=true&custom_title=Mohit's%203D%20Contribution%20Activity" alt="Contribution Activity Graph" width="100%" />
-</a>
-
-<br><br>
-
-<!-- SNAKE CONTRIBUTION ANIMATION -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mohit923695-ui/mohit923695-ui/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mohit923695-ui/mohit923695-ui/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mohit923695-ui/mohit923695-ui/output/github-contribution-grid-snake-dark.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mohit923695-ui/mohit923695-ui/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mohit923695-ui/mohit923695-ui/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/mohit923695-ui/mohit923695-ui/output/pacman-contribution-graph.svg">
 </picture>
 
-</div>
+---
+
+# 📈 Profile Summary
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohit923695-ui&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mohit923695-ui&theme=tokyonight"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mohit923695-ui&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mohit923695-ui&theme=tokyonight"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mohit923695-ui&theme=tokyonight"/>
+</p>
 
 ---
 
