@@ -41,7 +41,7 @@
 <table>
 <tr><td align="center">🎓</td><td><strong>B.Tech Computer Science Engineering Student</strong></td></tr>
 <tr><td align="center">🇮🇳</td><td><strong>Based in India</strong></td></tr>
-<tr><td align="center">🤖</td><td><strong>Aspiring AI Software Engineer</strong></td></tr>
+<tr><td align="center">🤖</td><td><strong>AI + Software Engineer</strong></td></tr>
 <tr><td align="center">🐍</td><td><strong>Python Developer</strong></td></tr>
 <tr><td align="center">⚙️</td><td><strong>C &amp; C++ Systems Programmer</strong></td></tr>
 <tr><td align="center">📊</td><td><strong>Data Structures &amp; Algorithms Learner</strong></td></tr>
