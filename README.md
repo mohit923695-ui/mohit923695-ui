@@ -19,24 +19,10 @@
 
 
 </div>
-
----
-
 <!-- ══════════════════════════════════════════════════════════ -->
 <!--                     🏆 GITHUB TROPHIES                    -->
 <!-- ══════════════════════════════════════════════════════════ -->
 
-<div align="center">
-
-### 🏆 GitHub Trophies & Achievements
-
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=mohit923695-ui&theme=onedark&column=6&margin-w=15&margin-h=15&no-bg=true&no-frame=false" alt="Mohit's GitHub Trophies" />
-</a>
-
-</div>
-
----
 
 <!-- ══════════════════════════════════════════════════════════ -->
 <!--                     3D ABOUT ME SECTION                   -->
