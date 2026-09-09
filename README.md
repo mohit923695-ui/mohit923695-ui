@@ -15,7 +15,8 @@
 ![Views](https://komarev.com/ghpvc/?username=mohit923695-ui&style=for-the-badge&color=00f5ff&label=PROFILE+VIEWS)
 [![GitHub Followers](https://img.shields.io/github/followers/mohit923695-ui?style=for-the-badge&logo=github&logoColor=white&color=ff007f&labelColor=0d1117)](https://github.com/mohit923695-ui)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://www.linkedin.com/in/mohit-kumar-021808399)
-[![Stars](https://img.shields.io/github/stars/mohit923695-ui?style=for-the-badge&logo=apachespark&logoColor=FFD700&color=7928ca&labelColor=0d1117)](https://github.com/mohit923695-ui)
+[![Total Stars](https://img.shields.io/github/stars/mohit923695-ui?style=for-the-badge&logo=apachespark&logoColor=FFD700&color=7928ca&labelColor=0d1117&label=TOTAL%20STARS)](https://github.com/mohit923695-ui)
+
 
 </div>
 
