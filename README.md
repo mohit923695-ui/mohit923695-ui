@@ -205,7 +205,7 @@
 
 <br><br>
 
-🤖 **AI **
+🤖 **AI/ML **
 <br>
 🧠 **Neural Networks**
 <br>
