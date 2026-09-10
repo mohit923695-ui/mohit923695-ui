@@ -77,48 +77,7 @@
 <!--                 3D CURRENTLY LEARNING GRID                -->
 <!-- ══════════════════════════════════════════════════════════ -->
 
-## 📚 Currently Learning
 
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="14%">
-<img src="https://skillicons.dev/icons?i=py" width="48" alt="Python"/><br>
-<b>Python</b><br>
-<sub><code>Active</code></sub>
-</td>
-<td align="center" width="14%">
-<img src="https://skillicons.dev/icons?i=cpp" width="48" alt="C++"/><br>
-<b>C++</b><br>
-<sub><code>Active</code></sub>
-</td>
-<td align="center" width="14%">
-<img src="https://skillicons.dev/icons?i=c" width="48" alt="DSA"/><br>
-<b>DSA</b><br>
-<sub><code>Active</code></sub>
-</td>
-<td align="center" width="14%">
-<img src="https://skillicons.dev/icons?i=git" width="48" alt="Git"/><br>
-<b>Git / GitHub</b><br>
-<sub><code>Active</code></sub>
-</td>
-<td align="center" width="14%">
-<img src="https://skillicons.dev/icons?i=linux" width="48" alt="Linux"/><br>
-<b>Linux</b><br>
-<sub><code>Exploring</code></sub>
-</td>
-<td align="center" width="14%">
-<img src="https://skillicons.dev/icons?i=github" width="48" alt="Open Source"/><br>
-<b>Open Source</b><br>
-<sub><code>Starting</code></sub>
-</td>
-</tr>
-</table>
-
-</div>
-
----
 
 <!-- ══════════════════════════════════════════════════════════ -->
 <!--                   3D TECH STACK & TOOLS                   -->
