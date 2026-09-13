@@ -43,9 +43,9 @@
 <tr><td align="center">🇮🇳</td><td><strong>Based in India</strong></td></tr>
 <tr><td align="center">🤖</td><td><strong>AI + Software Engineer</strong></td></tr>
 <tr><td align="center">🐍</td><td><strong>Python Developer</strong></td></tr>
-<tr><td align="center">⚙️</td><td><strong>C &amp; C++ Systems Programmer</strong></td></tr>
-<tr><td align="center">📊</td><td><strong>Data Structures &amp; Algorithms Learner</strong></td></tr>
-<tr><td align="center">🌍</td><td><strong>Open Source Enthusiast</strong></td></tr>
+<tr><td align="center">⚙️</td><td><strong>MERN Full stack</strong></td></tr>
+<tr><td align="center">📊</td><td><strong>C++ & DSA</strong></td></tr>
+<tr><td align="center">🌍</td><td><strong>AI/ML Enthusiast</strong></td></tr>
 </table>
 
 <br>
