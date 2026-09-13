@@ -57,13 +57,12 @@
 
 > 🎯 **Career Vision:**
 > *"Building high-performance, intelligent software systems with AI models, core engineering fundamentals, and robust security."*
+>
+> 
+> <br>
+*Building real-world software with modern AI Tools*
+> <br>
 
-<br>
-
-> 🛡️ **Next Horizon:**
-> *"Cybersecurity &amp; Ethical Hacking — exploring secure AI architectures."*
-
-<br>
 
 </td>
 </tr>
