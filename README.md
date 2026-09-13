@@ -355,24 +355,6 @@ Frontend &amp;<br>fullstack web apps
 
 ---
 
-# 📈 Profile Summary
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohit923695-ui&theme=tokyonight"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mohit923695-ui&theme=tokyonight"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mohit923695-ui&theme=tokyonight"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mohit923695-ui&theme=tokyonight"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mohit923695-ui&theme=tokyonight"/>
-</p>
-
----
-
 ## 🌐 Connect With Me
 
 <div align="center">
