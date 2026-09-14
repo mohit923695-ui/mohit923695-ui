@@ -353,6 +353,14 @@ Frontend &amp;<br>fullstack web apps
 </picture>
 
 ---
+## 📊 GitHub Stats
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=mohit923695-ui&theme=dark)](https://git.io/streak-stats)
+
+</div>
+---
+
 
 ## 🌐 Connect With Me
 
