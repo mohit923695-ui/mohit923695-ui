@@ -60,7 +60,7 @@
 >
 > 
 > <br>
-**Building real-world software with modern AI Tools**
+*Building real-world software with modern AI Tools*
 > <br>
 
 
