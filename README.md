@@ -91,52 +91,6 @@
 <td align="center" width="33%" valign="top">
 
 <br>
-
-### 🛠️ Tools & Environments
-
-<br>
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-<br><br>
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-<br><br>
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-<br><br>
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-<br><br>
-![Windows](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)
-
-<br>
-
-</td>
-<td align="center" width="33%" valign="top">
-
-<br>
-
-### 🚀 Future Roadmap Tech
-
-<br>
-
-![AI/ML](https://img.shields.io/badge/AI%20%2F%20ML-FF6F61?style=for-the-badge&logo=tensorflow&logoColor=white)
-<br><br>
-![Ethical Hacking](https://img.shields.io/badge/Ethical_Hacking-202020?style=for-the-badge&logo=kalilinux&logoColor=white)
-<br><br>
-![Cloud](https://img.shields.io/badge/Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-<br><br>
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-<br><br>
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900)
-
-<br>
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
 <!-- ══════════════════════════════════════════════════════════ -->
 <!--                   3D LEARNING ROADMAP                      -->
 <!-- ══════════════════════════════════════════════════════════ -->
